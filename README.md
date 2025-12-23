@@ -71,5 +71,7 @@ The comparison between models helps identify the most effective algorithm for th
 
 ---
 
-## 📂 Project Structure
+### 📧 Contact
+Created by **[Khalid Alammari]** - Connect with me on [Linkedin](https://www.linkedin.com/in/khalid-alammari-/)
+ or Email [Khalid.A.Alammari@gmail.com]
 
